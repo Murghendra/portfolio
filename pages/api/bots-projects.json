@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "2D-Chess Game",
+    "image": "https://img.freepik.com/premium-photo/3d-white-chess-pieces-placed-board-first-move-chess-game-3d-rendering_550395-1234.jpg",
+    "description": "Crafted with React, my chess game embodies elegance, strategic depth, and seamless UI, setting a new standard in digital chess experiences.",
+    "tags": ["React", "Node.js", "Render"],
+    "source_code": "https://github.com/Murghendra/chess-2D"
+  },
+  {
+    "id": 2,
+    "name": "Job Application Bot",
+    "image": "https://imgur.com/BX6C6ke.png",
+    "description": "A bot that automatically sends emails to new ads posted in any desired xe.gr search url.",
+    "tags": ["Gmail", "Dropbox", "MySQL", "AWS", "RDS", "CircleCI", "Heroku", "Crawler", "Scraper"],
+    "source_code": "https://github.com/Murghendra"
+  }
+]

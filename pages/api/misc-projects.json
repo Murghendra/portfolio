@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Jarvis AI",
+    "image": "https://wallpaperaccess.com/full/3974294.jpg",
+    "description": "Welcome to JARVIS, your very own Python-powered assistant inspired by Tony Stark's digital companion. Built with Python, JARVIS is designed to streamline your daily tasks, manage your schedules, provide weather updates, answer questions.",
+    "tags": ["Python", "Jarvis", "API"],
+    "source_code": "https://github.com/Murghendra/JARVIS"
+  },
+  {
+    "id": 2,
+    "name": "Gesture Volume Tracker",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.PRvs3WfXjHI1q4osk8yiuQHaDP&pid=Api&P=0&h=180",
+    "description": "Volume tracker module that can be controlled using hand gesture using python",
+    "tags": ["Python", "computer vision", "Maths", "Interpolation", "smart-home"],
+    "source_code": "https://github.com/Murghendra/Finger_volume_Tracker"
+  }
+ 
+]

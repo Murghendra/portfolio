@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Mango Disease Detection and Analysis",
+    "image": "https://th.bing.com/th/id/OIP.NU2CnNe-eMMs7jAAvuFvrgHaE5?rs=1&pid=ImgDetMain",
+    "description": "A Convolutional Neural Network model that classifies and predicts the mango fruit disease.",
+    "tags": ["OpenCV", "Neural-Network", "Exploratory Analysis"],
+    "source_code": "https://github.com/Murghendra"
+  },
+  {
+    "id": 2,
+    "name": "Optical Character Recognition",
+    "image": "https://th.bing.com/th/id/OIP.PBtwlFjxtyxtKprP1Fp_cgAAAA?w=308&h=175&c=7&r=0&o=5&pid=1.7",
+    "description": "Utilized CNNs for OCR, achieving precise text extraction from images through advanced deep learning techniques for enhanced recognition accuracy.",
+    "tags": ["CNN", "OpenCV", "Image Processing", "Machine Learning"],
+    "source_code": "https://github.com/Murghendra"
+  },
+  {
+    "id": 3,
+    "name": "Lung cancer segmentation from CT scan images",
+    "image": "https://www.hopkinsmedicine.org/sebin/v/g/exam_lung_scans.jpg",
+    "description": "Arctitectured Lung cancer segmentation from CT scan images using modifed mayfy optimization and particle swarm optimization algorithm",
+    "tags": ["OpenCV","Automatic Segmentation", "Deep Ensemble", "Computed Tomography", "M2PSO4", "CNN"],
+    "source_code": "https://github.com/Murghendra"
+  },
+  {
+    "id": 4,
+    "name": "Accident Severity Prediction",
+    "image": "https://imgur.com/3w7SKLt.png",
+    "description": "Predicting the severity of car accidents from various attributes.",
+    "tags": ["Pandas", "Scipy", "Bayesian-Optimization", "XGBoost", 
+    "Logistic-Regression", "Neural-Network", "K-Means"],
+    "source_code": "https://github.com/Murghendra"
+  }
+ 
+]

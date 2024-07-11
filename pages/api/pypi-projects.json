@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "ChatVerse",
+    "image": "https://static.vecteezy.com/system/resources/previews/000/561/500/original/chat-app-logo-icon-vector.jpg",
+    "description": "ChatVerse is a React chat app powered by Socket.io and REST APIs. Enjoy real-time messaging, image support, and intuitive design.",
+    "tags": ["React", "Socket.io", "ChatEngine"],
+    "source_code": "https://github.com/Murghendra/chat-app"
+  },
+  {
+    "id": 2,
+    "name": "Doctor Appointment System",
+    "image": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/606f6b6ecae99f77802d2a3d_doctorwebflowtemplate1.png",
+    "description": "Introducing our MERN Stack Doctor Appointment System! Secure booking, doctor approval, strong authorization, tokenization, and password encryption. Healthcare made convenient and safe!.",
+    "tags": ["React", "Nextjs", "Expressjs", "MongoDB"],
+    "source_code": "https://github.com/Murghendra/DOCTOR-APPOINTMENT-SYSTEM"
+  },
+  {
+    "id": 3,
+    "name": "QR Code Generator",
+    "image": "https://ustechportal.com/wp-content/uploads/2022/04/qr-code.jpg",
+    "description": "A basic QR code generator website built using HTML5, CSS and Javascript.",
+    "tags": ["HTML5", "CSS3", "Javascript", "API"],
+    "source_code": "https://github.com/Murghendra/QR-Code-Generator",
+    "pypi": "https://murghendra.github.io/QR-Code-Generator/"
+  },
+  {
+    "id": 4,
+    "name": "To-Do List",
+    "image": "https://codingartistweb.com/wp-content/uploads/2021/02/To-Do-list-small-01.png",
+    "description": "A simple To-do list using HTML, CSS and JS.",
+    "tags": ["HTML5", "CSS3", "Javascript"],
+    "source_code": "https://github.com/Murghendra/TO-DO-List",
+    "pypi": "https://murghendra.github.io/TO-DO-List/"
+  },
+  {
+    "id": 5,
+    "name": "SAHARA: Medication Reminder Portal",
+    "image": "https://i.pinimg.com/originals/b3/34/87/b334873f6d01f2353c4b9de8f26ecee2.png",
+    "description": "Built a medicine reminder portal for old age people.",
+    "tags": ["React", "Java", "Spring Boot","MySQL"],
+    "source_code": "https://github.com/Murghendra/TO-DO-List",
+    "pypi": "https://murghendra.github.io/TO-DO-List/"
+  },
+  {
+    "id": 4,
+    "name": "Modern UI of GPT3",
+    "image": "https://www.arshakir.com/uploads/projects/freebie-gpt-3-landing-page-2.jpg",
+    "description": "Built the Modern User Interface of ChatGPT3 using React",
+    "tags": ["Reactjs", "CSS", "Figma"],
+    "source_code": "https://github.com/Murghendra/TO-DO-List",
+    "pypi": "https://murghendra.github.io/TO-DO-List/"
+  }
+
+ 
+]
