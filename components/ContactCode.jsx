@@ -30,7 +30,7 @@ const contactItems = [
   {
     social: 'Portfolio',
     link: 'Murghendra.dev',
-    href: 'https://gkos.dev',
+    href: 'https://murghendra-portfolio.vercel.app/',
   },
   
 ];
