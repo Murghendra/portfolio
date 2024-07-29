@@ -2,6 +2,8 @@
 
 This is my personal portfolio website built using Next.js, designed to resemble the Visual Studio Code (VS Code) theme. It showcases my projects, skills, and experience in web development and computer science.
 
+Live link: https://murghendra-portfolio.vercel.app/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
