@@ -8,10 +8,7 @@ This is my personal portfolio website built using Next.js, designed to resemble 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 
